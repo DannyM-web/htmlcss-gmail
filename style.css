@@ -89,7 +89,7 @@ margin: 0;
   font-size: 0.9em;
   color: grey;
 }
-.fav {
+button[name="favorite"] {
   width: 15px;
   background: none;
   border: 0;
@@ -98,7 +98,7 @@ margin: 0;
   padding-left: 0;
   margin: auto;
 }
-.fav:hover {
+button[name="favorite"]:hover {
   background-color: yellow;
 }
 .mr-y:hover {
