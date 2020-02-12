@@ -101,6 +101,7 @@ button[name="favorite"] {
 button[name="favorite"]:hover {
   background-color: yellow;
 }
+
 .mr-y:hover {
   background-color: #a9b0ba;
   cursor: default;
